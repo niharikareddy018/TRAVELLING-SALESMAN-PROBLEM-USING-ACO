@@ -1,0 +1,6 @@
+# .gitignore (at root level)
+backend/.env
+frontend/.env
+*.env
+.env.local
+.env.*.local
