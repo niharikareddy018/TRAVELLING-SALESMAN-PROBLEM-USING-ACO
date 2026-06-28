@@ -1,5 +1,6 @@
 # ACO-TSP Solver 
-
+## Screenshot
+![ACO-TSP Solver](screenshot.png)
 **Travelling Salesman Problem solved using Ant Colony Optimization**  
 Full-stack application — React frontend + Node.js/Express backend + Google Maps API
 
