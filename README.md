@@ -216,6 +216,7 @@ VITE_GOOGLE_MAPS_KEY=YOUR_GOOGLE_MAPS_API_KEY
 ### Home Page
 
 ![Home Page](screenshots/home.png)
+<img width="1913" height="902" alt="image" src="https://github.com/user-attachments/assets/887de692-488f-43d8-b6ab-5baa4abf2504" />
 
 ---
 
