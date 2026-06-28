@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 # .gitignore (at root level)
 backend/.env
 frontend/.env
 *.env
 .env.local
 .env.*.local
+=======
+node_modules/
+.env
+dist/
+.DS_Store
+*.log
+>>>>>>> c6ed45425dd4c8b5686d025ca47109dd4defc6f0
