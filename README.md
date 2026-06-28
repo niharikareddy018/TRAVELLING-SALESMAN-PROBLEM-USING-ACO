@@ -216,33 +216,26 @@ VITE_GOOGLE_MAPS_KEY=YOUR_GOOGLE_MAPS_API_KEY
 ### Home Page
 
 ![Home Page](screenshots/home.png)
-<img width="1913" height="902" alt="image" src="https://github.com/user-attachments/assets/887de692-488f-43d8-b6ab-5baa4abf2504" />
-
----
 
 ### City Input
 
 ![City Input](screenshots/input-cities.png)
 
----
-
-### Google Maps Route Visualization
-
-![Google Maps](screenshots/route-map.png)
-
----
 
 ### Optimized Route
 
 ![Optimized Route](screenshots/optimal-route.png)
+
+
+### Optimized Route With Optional Stops
+
+![Google Maps](screenshots/optimal-route-with-optional-stops.png)
 
 ---
 
 ## System Architecture
 
 ![Architecture](screenshots/architecture.png)
-
----
 
 ## Future Enhancements
 
